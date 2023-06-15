@@ -1,9 +1,12 @@
-# 🔗 Pokédex
-<div style="display: inline_block"><br>
-  <img align="center" alt="ts" height="15%" width="15%" src="https://github.com/GeovaneRigonato/desafio-pokemon-app/blob/main/pokedex/assets/telaInicial.jpg?raw=true">
-  <img align="center" alt="Js" marginLeft="150px" height="15%" width="15%" src="https://raw.githubusercontent.com/GeovaneRigonato/desafio-pokemon-app/main/pokedex/assets/detailCharmander.jpg?token=GHSAT0AAAAAACDRLAQNYQIOLI4ZQLEW43BWZELGNNA">
-  <img align="center" alt="NodeJS" height="15%" width="15%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<div style="display:flex; justify-content:center; font-weight:900; font-size:25px; margin-bottom:20px">
+🔗 Pokédex
+</div>
+<div style="display: flex; justify-content: center; gap:10px;"><br>
+  <img align="center" style="border-radius:10px" alt="ts" height="15%" width="30%" src="pokedex/assets/telaInicial.jpg">
+  <img align="center" style="border-radius:10px" alt="Js" height="15%" width="30%" src="pokedex/assets/detailCharmander.jpg">
+  <img align="center" style="border-radius:10px" alt="NodeJS" height="15%" width="30%" src="pokedex/assets/searchChar.jpg">
 </div><br>
+
 ## Descrição
 
 Este projeto é uma Pokédex desenvolvida em React Native com Expo, consumindo a api do pokemon. Ele foi criado como parte de um desafio para avaliar minhas habilidades e me tornar um possível contribuidor de um projeto.
