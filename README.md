@@ -2,9 +2,9 @@
 🔗 Pokédex
 </div>
 <div style="display: flex; justify-content: center; gap:10px;"><br>
-  <img align="center" style="border-radius:10px" alt="ts" height="15%" width="30%" src="pokedex/assets/telaInicial.jpg">
-  <img align="center" style="border-radius:10px" alt="Js" height="15%" width="30%" src="pokedex/assets/detailCharmander.jpg">
-  <img align="center" style="border-radius:10px" alt="NodeJS" height="15%" width="30%" src="pokedex/assets/searchChar.jpg">
+  <img align="center" style="border-radius:10px" alt="ts" height="13%" width="33%" src="pokedex/assets/telaInicial.jpg">
+  <img align="center" style="border-radius:10px" alt="Js" height="13%" width="33%" src="pokedex/assets/detailCharmander.jpg">
+  <img align="center" style="border-radius:10px" alt="NodeJS" height="13%" width="33%" src="pokedex/assets/searchChar.jpg">
 </div><br>
 
 ## Descrição
