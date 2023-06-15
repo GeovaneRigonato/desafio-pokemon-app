@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "pokedex",
+    "name": "Pokédex",
     "slug": "pokedex",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/pokeball.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.geovanerigonato.pokedex"
     },
     "web": {
       "favicon": "./assets/pokeball.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5db42970-7ed5-4346-b865-726318f09c4a"
+      }
     }
   }
 }
