@@ -9,7 +9,7 @@
 
 ## Descrição
 
-Este projeto é uma Pokédex desenvolvida em React Native com Expo, consumindo a api do pokemon. Ele foi criado como parte de um desafio para avaliar minhas habilidades e me tornar um possível contribuidor de um projeto.
+Este projeto é uma Pokédex desenvolvida em React Native com Expo, consumindo a api do pokemon. Ele foi criado como parte de um desafio para avaliar minhas habilidades e me tornar um possível desenvolvedor na empresa Inspire Midia Brasil.
 
 A Pokédex permite que os usuários visualizem informações sobre diferentes Pokémon, como nome, tipo, habilidades e estatísticas. Além disso, eles podem pesquisar Pokémon específicos.
 
